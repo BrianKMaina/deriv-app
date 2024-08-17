@@ -22,7 +22,7 @@ jobs:
         run: npm i -g lerna@^5.5.1 && npm run bootstrap
 
       - name: Build Deriv App
-        run: npm run build:all
+        run: npm run build:all --verbose
 
       - name: Deploy to Firebase
         uses: FirebaseExtended/action-hosting-deploy@v0

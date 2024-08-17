@@ -34,3 +34,6 @@ packages/*/stats.json
 packages/*/report.json
 packages/*/analyzed.html
 packages/*/treemap.html
+packages/wallets/src/features/cashier/modules/Transactions/components/TransactionsCompletedRow/components/TransactionsCompletedRowAccountDetails/__tests__/TransactionsCompletedRowAccountDetails.spec.tsx
+packages/wallets/src/features/cashier/modules/Transactions/components/TransactionsCompletedRow/components/TransactionsCompletedRowTransferAccountDetails/TransactionsCompletedRowTransferAccountDetails.tsx
+packages/wallets/src/features/cashier/modules/Transactions/components/TransactionsCompletedRow/components/TransactionsCompletedRowTransferAccountDetails/__tests__/TransactionsCompletedRowTransferAccountDetails.spec.tsx
